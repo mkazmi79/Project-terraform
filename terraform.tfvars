@@ -1,0 +1,8 @@
+ec2-tor = "t2.nano"
+image = "ami-0b0af3577fe5e3532"
+cidr-vpc = "10.0.0.0/16"
+cidr-pub = "10.0.1.0/24"
+cidr-private = "10.0.2.0/24"
+region = "us-east-1"
+a-key = "AKIA3JOPK7T6GAYT2QO7"
+s-key = "1LfLsMdv5p1PgTRchwjHXnoTGXSjfJlrpXmoCMjs"
